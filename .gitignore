@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+
+# dotenv file
+.env
+
+# Appwrite build files (optional)
+.build/
+
+.venv_build
+.pyinstaller_build
+.gradle
+.github
+.venv_pybuild
+
+Authorities
+
+External
+
+background
+
+ICON
+generate_sead
+menu
+Notebook
+Nectar-X-Studio-deb
+oauth
+output
+
+client_sead.py
+app.py
+fernet key.py
+NOTE.TXT
+test-new.py
+.env
